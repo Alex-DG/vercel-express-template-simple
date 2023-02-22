@@ -1,5 +1,5 @@
 {
-  "name": "backend-openai",
+  "name": "vercel-express-template-simple",
   "description": "Minimal reusable template project working with Vercel and Express.js",
   "version": "1.0.0",
   "main": "index.js",
